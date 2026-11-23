@@ -1,0 +1,10 @@
+Item,Value
+Data Source,Yahoo Finance
+Download Library,yfinance
+Ticker Retrieval Date,2026-11-23
+Study Start Date,2021-01-01
+Study End Date (Exclusive),2025-01-01
+Stock Interval,Daily
+Python Version,3.13.18
+Pandas Version,2.2.3
+yfinance Version,0.2.66
